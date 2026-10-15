@@ -1,0 +1,6 @@
+{
+  "name": "FinGuard AI",
+  "description": "Financial Fraud Detection and Risk Intelligence Platform featuring real-time transaction monitoring, explainable risk scoring, fraud alert management, case investigations, and compliance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
