@@ -244,3 +244,5 @@ export const api = {
     request<any>('/notifications/read-all', { method: 'PATCH' }),
 };
 
+
+// Render backend connection
