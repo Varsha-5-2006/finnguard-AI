@@ -157,3 +157,11 @@ The test suite covers:
 5. Structuring / Smurfing pattern detection
 6. Compound multi-vector attack scoring capped at 100
 7. Automatic alert triggering thresholds
+   
+## Pitch Deck
+
+[📄 View FinGuard AI Pitch Deck (PDF)](./FinGuard_AI_ExaThon_2026_9Slides.pdf)
+
+## Demo Video
+
+[▶️ Watch FinGuard AI – Project Demo](https://youtu.be/dgavThNaLi8)
